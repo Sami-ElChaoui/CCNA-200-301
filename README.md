@@ -15,9 +15,9 @@ Chaque dossier contient un résumé de ce que j'ai compris et de ce que j'ai fai
 
 | Dossier | Sujet |
 |---|---|
-| [NN-etherchannel](NN-etherchannel) | EtherChannel (LACP, PAgP, niveau 3 statique, load-balancing) |
+| [01-etherchannel](01-etherchannel) | EtherChannel (LACP, PAgP, niveau 3 statique, load-balancing) |
 
 Les dossiers sont nommés `NN-nom-du-sujet` et ajoutés quand j'ai un sujet à partager, sans calendrier fixe.
 
 ## Contact
-[Mon profil LinkedIn](lien)
+[Mon profil LinkedIn](https://www.linkedin.com/in/sami-el-chaoui-051622301/)
