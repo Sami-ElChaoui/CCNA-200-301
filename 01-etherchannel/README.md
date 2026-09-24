@@ -37,6 +37,6 @@ Ce que j'ai configuré :
 
 Sur le lien de niveau 3 entre les deux DSW, toutes les trames ont la même MAC source et la même MAC destination (celles des deux switchs). Avec src-mac, le hash donne donc toujours le même résultat et un seul lien est utilisé. Avec src-dst-ip, le hash dépend des adresses IP des machines qui communiquent, ce qui permet de répartir plusieurs flux sur les deux liens.
 
-![Topologie](01-etherchannel/img/topologie.PNG)
+![Topologie](img/topologie.PNG)
 
 
