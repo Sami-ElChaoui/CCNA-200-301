@@ -39,4 +39,4 @@ Ce que j'ai configuré :
 - une route statique flottante sur R1 et R2 pour joindre le réseau distant en cas de panne du lien R1-R2, avec une AD supérieure à celle d'OSPF pour qu'elle reste inactive tant qu'OSPF fonctionne
 - coupure de l'interface reliant R1 et R2 pour vérifier que la route statique flottante prend le relais, confirmée par un ping de PC1 vers SRV1
 
-![Topologie](topologie.png)
+![Topologie](img/floating-rounting_lab.PNG)
